@@ -6,7 +6,7 @@ import borrowSchema from "./borrowModel";
 
 //connect to DB
 //cloud mongodb
-const uri = "mongodb+srv://super:super@clusterbook.wljvnyy.mongodb.net/?retryWrites=true&w=majority";
+const uri = "mongodb+srv://<username>:<password>@clusterbook.wljvnyy.mongodb.net/?retryWrites=true&w=majority";
 //local mongodb
 //const uri = "mongodb://localhost:27017/book-data"
 
